@@ -19,7 +19,10 @@ data points.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. First, create an "free" account for 
+1. First, follow the [instructions](https://capitalmarkets.fanniemae.com/media/9066/display) and ignore the section for HARP data but feel free to explore as this might pique your interest
+2. After having the data downloaded, you can change the original folder path in my PD.py to your location of the file in your local computer to perform the ETL process.
+3. The PD.py should be the file being run first in order to generate the features needed for the neural network part
+4. Finally, read the ML.py part and fine-tune the neural network or updated the algorithms in whatever you feel the best because there's no limitation at all.
 
 ### Dependencies
 
